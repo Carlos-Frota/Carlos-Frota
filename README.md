@@ -97,18 +97,6 @@
 </table>
 
 ---
-### 💼 Experiencias Profissionais de destaque:
-
-**4 anos como Engenheiro de Dados | Grupo Águia Branca** <br>
-
-> Atuação no time de dados da Holding que lidera a modernização da plataforma de dados corporativa.
-
-* 🚀 **Implementação do Data Lakehouse:** Construção do zero do ambiente analítico em nuvem (Azure Databricks), definindo camadas de arquitetura (Bronze, Silver, Gold) e governança.
-* ☁️ **Migração On-Premise to Cloud:** Responsável pela estratégia e execução da migração de legados de dados, garantindo escalabilidade e segurança na nuvem.
-* 💰 **FinOps & Performance:** Refatoração de pipelines e otimização de clusters Spark, resultando em redução significativa de custos de processamento e tempo de execução.
-* 🔄 **Integração de Dados Complexos:** Desenvolvimento de fluxos de ingestão de dados transacionais (SAP e sistemas satélites) para suportar KPIs executivos e tomada de decisão.
-
----
 
 ### 📬 Autor de artigos técnicos no Medium voltados para a comunidade de dados
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Carlos-Frota/CarlosFrota-DataEngineer/blob/main/fundo%20linkedin_reduzido.png" width="100%" alt="Data Engineering Banner" />
+  <img src="https://github.com/Carlos-Frota/CarlosFrota/blob/main/fundo%20linkedin_reduzido.png" width="100%" alt="Data Engineering Banner" />
 </div>
 
 ---
@@ -31,7 +31,7 @@
   <tbody>
     <tr>
       <td align="center" width="60">
-        <img src="https://github.com/Carlos-Frota/CarlosFrota-DataEngineer/blob/main/databricks-badge.png?raw=true" width="45" alt="Databricks Logo" />
+        <img src="https://github.com/Carlos-Frota/Carlos-Frota/blob/main/databricks-badge.png?raw=true" width="45" alt="Databricks Logo" />
       </td>
       <td>
         <a href="https://credentials.databricks.com/a387b6f3-a962-4258-8bb9-7d135a17dda6#acc.H6nTuwjf">
@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/Carlos-Frota/CarlosFrota-DataEngineer/blob/main/arki1-badge.png?raw=true" width="55" alt="Arki1 Logo" />
+        <img src="https://github.com/Carlos-Frota/Carlos-Frota/blob/main/arki1-badge.png?raw=true" width="55" alt="Arki1 Logo" />
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1apKbpdWhxi9GEPH8PRVPVmfL9ewd6qb6/view">
@@ -71,7 +71,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/Carlos-Frota/CarlosFrota-DataEngineer/blob/main/sqlbi-badge.png?raw=true" width="45" alt="SQLBI Logo" />
+        <img src="https://github.com/Carlos-Frota/Carlos-Frota/blob/main/sqlbi-badge.png?raw=true" width="45" alt="SQLBI Logo" />
       </td>
       <td>
         <b>DAX Language – SQLBI</b>

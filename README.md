@@ -1,31 +1,31 @@
 <div align="center">
-  <img src="https://github.com/Carlos-Frota/CarlosFrota-DataEngineer/blob/main/fundo%20linkedin_reduzido.png" width="100%" alt="Banner Data Engineering" />
+  <img src="https://github.com/Carlos-Frota/CarlosFrota-DataEngineer/blob/main/fundo%20linkedin_reduzido.png" width="100%" alt="Data Engineering Banner" />
 </div>
 
 ---
-<h3 align="center">Databricks Certified Data Engineer Associate | Microsoft Certified Azure | Lakehouse | Microsoft SQL Server | SSIS | SSAS | Oracle | Big data | Data Pipelines | Data Analytics | Fabric | Python | PySpark | GitHub</h3>
+<h3 align="center">Databricks Certified Data Engineer Associate | Microsoft Certified Azure | Lakehouse | Microsoft SQL Server | SSIS | SSAS | Oracle | Big Data | Data Pipelines | Data Analytics | Fabric | Python | PySpark | GitHub</h3>
 
 ---
 
 <p align="left">
   <br>
-  Expertise na modernização de infraestrutura de dados para nuvem e implementação de arquiteturas Data Lakehouse (Azure/Databricks), com foco no desenvolvimento de soluções escaláveis que melhorem o desempenho operacional e aumentem a maturidade analítica da gestão de empresas.
+  Expertise in modernizing data infrastructure to the cloud and implementing Data Lakehouse architectures (Azure/Databricks), focused on developing scalable solutions that improve operational performance and increase organizations' analytical maturity.
 </p>
 
 <br>
 
-- 🏗 Especialista em Arquitetura Data Lakehouse (Azure + Databricks)
-- 🔄 Orquestração de pipelines end-to-end (ERP → Bronze → Silver → Gold)
-- ☁️ Modernização de infraestrutura e migração *On-premise to Cloud*
-- 🐍 Desenvolvimento de rotinas escaláveis com Python, PySpark e SQL
-- ⚡ Otimização de performance e redução de custos de processamento
-- 🛠️ Integração de ecossistemas de dados (Fabric, BigQuery, Oracle)
-- 📈 Foco em impacto executivo e geração de valor para o negócio
+- 🏗 Specialist in Data Lakehouse Architecture (Azure + Databricks)
+- 🔄 End-to-end pipeline orchestration (ERP → Bronze → Silver → Gold)
+- ☁️ Infrastructure modernization and *On-premise to Cloud* migration
+- 🐍 Development of scalable routines using Python, PySpark, and SQL
+- ⚡ Performance optimization and processing cost reduction
+- 🛠️ Data ecosystem integration (Fabric, BigQuery, Oracle)
+- 📈 Focus on executive impact and business value generation
 <br>
 
 ---
 
-### 🏆 Licenças & Certificações
+### 🏆 Licenses & Certifications
 
 <table>
   <tbody>
@@ -74,7 +74,7 @@
         <img src="https://github.com/Carlos-Frota/CarlosFrota-DataEngineer/blob/main/sqlbi-badge.png?raw=true" width="45" alt="SQLBI Logo" />
       </td>
       <td>
-        <b>Dax Language – SQLBI</b>
+        <b>DAX Language – SQLBI</b>
       </td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python Logo" />
       </td>
       <td>
-        <b>Técnicas Avançadas de Python</b>
+        <b>Advanced Python Techniques</b>
       </td>
     </tr>
   </tbody>
@@ -98,11 +98,11 @@
 
 ---
 
-### 📬 Autor de artigos técnicos no Medium voltados para a comunidade de dados
+### 📬 Author of technical articles on Medium focused on the data community
 
-> Busco trazer temas relevantes da área e aprofundá-los trazendo contexto técnico, além de exemplos de código práticos.
+> I aim to bring relevant topics from the field and explore them in depth by providing technical context along with practical code examples.
 > 
-> Aos amigos e profissionais da área que quiserem se manter atualizados das novidades e features mais recentes do Databricks, convido a ler e seguir meu perfil no Medium e LinkedIn.
+> To friends and professionals in the field who would like to stay up to date with the latest Databricks news and features, I invite you to read and follow my profile on Medium and LinkedIn.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlosfrota">

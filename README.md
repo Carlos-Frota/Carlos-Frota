@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Carlos-Frota/CarlosFrota/blob/main/fundo%20linkedin_reduzido.png" width="100%" alt="Data Engineering Banner" />
+  <img src="https://github.com/Carlos-Frota/Carlos-Frota/blob/main/fundo%20linkedin_reduzido.png" width="100%" alt="Data Engineering Banner" />
 </div>
 
 ---
